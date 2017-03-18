@@ -19,7 +19,6 @@ $(function() {
                 </div>`
             }
             $('#badges').html(courses);
-
             //console.log(completed);
         }
     });
